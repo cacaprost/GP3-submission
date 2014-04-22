@@ -1,0 +1,16 @@
+﻿Build started 4/22/2014 8:30:58 AM.
+     1>Project "C:\Users\Sharky\Documents\Visual Studio 2013\Projects\nyan_cat_game\nyan_cat_game\nyan_cat_game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt playerNyan.cpp
+         playerNyan.cpp
+     1>c:\users\sharky\documents\visual studio 2013\projects\nyan_cat_game\nyan_cat_game\playernyan.cpp(20): error C3867: 'playerNyan::alive': function call missing argument list; use '&playerNyan::alive' to create a pointer to member
+     1>c:\users\sharky\documents\visual studio 2013\projects\nyan_cat_game\nyan_cat_game\playernyan.cpp(55): error C3867: 'playerNyan::alive': function call missing argument list; use '&playerNyan::alive' to create a pointer to member
+     1>c:\users\sharky\documents\visual studio 2013\projects\nyan_cat_game\nyan_cat_game\playernyan.cpp(58): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+     1>c:\users\sharky\documents\visual studio 2013\projects\nyan_cat_game\nyan_cat_game\playernyan.cpp(59): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+     1>c:\users\sharky\documents\visual studio 2013\projects\nyan_cat_game\nyan_cat_game\playernyan.cpp(60): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+     1>c:\users\sharky\documents\visual studio 2013\projects\nyan_cat_game\nyan_cat_game\playernyan.cpp(61): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+     1>Done Building Project "C:\Users\Sharky\Documents\Visual Studio 2013\Projects\nyan_cat_game\nyan_cat_game\nyan_cat_game.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.88

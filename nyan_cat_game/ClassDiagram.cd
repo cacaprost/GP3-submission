@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="BG_Image">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgIAAAAAIAAAEAAACAIAAAAEAAAEAAA=</HashCode>
+      <FileName>background.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorLogger" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQgAAAAAAACQAAABACABABAAAAAEAAAA=</HashCode>
+      <FileName>ErrorLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTimer" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAQAAAAgAIAAAAAAIAAAAAAAAIAAAAggA=</HashCode>
+      <FileName>gametimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDrawEngine" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CREAILABADLJEkIAUJAAUIUAXgJhFBJkBEgMUDAgBFE=</HashCode>
+      <FileName>mydrawengine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInputs" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAACAAwAKDAEAkAwCwggBBCFEBAKUjALAcUQjDnAAM=</HashCode>
+      <FileName>myinputs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPicture" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gRAQICAIAACAAAQERAAAQAQAUAAABAAAAAAIABAAAgA=</HashCode>
+      <FileName>mypicture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySound" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAACAAIAAAAIAAAAACAoAABABAEAAA=</HashCode>
+      <FileName>mysound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySoundEngine" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAIBABIAAAAQAAEADAAAAA=</HashCode>
+      <FileName>mysoundengine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="obstacol">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgIAAAAAIAACEgAACAKAAAAEAAAEAAA=</HashCode>
+      <FileName>obstacol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerNyan">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgIAAAAAIAAAFAAACAIAAAAEAAAEAAA=</HashCode>
+      <FileName>playerNyan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2D" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkAAAAQAAAAAEAAAAAQAAQEAAAAAAAAABQAgIADAAAA=</HashCode>
+      <FileName>vector2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ErrorType" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>errortype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
